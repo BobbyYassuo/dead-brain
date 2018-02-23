@@ -5,3 +5,6 @@ d
 car 
 car1
 car2
+function draw(){
+background("blue")
+}
